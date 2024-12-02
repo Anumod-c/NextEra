@@ -1,0 +1,24 @@
+[submodule "Nextera-UI"]
+	path = Nextera-UI
+	url = https://github.com/Anumod-c/NextEra-UI.git
+[submodule "Nextera-Api-Gateway"]
+	path = Nextera-Api-Gateway
+	url = https://github.com/Anumod-c/NextEra-Api-Gateway.git
+[submodule "Nextera-Course-Service"]
+	path = Nextera-Course-Service
+	url = https://github.com/Anumod-c/NextEra-CourseService.git
+[submodule "Nextera-Payment-Service"]
+	path = Nextera-Payment-Service
+	url = https://github.com/Anumod-c/NextEra-PaymentService.git
+[submodule "Nextera-Chat-Service"]
+	path = Nextera-Chat-Service
+	url = https://github.com/Anumod-c/NextEra-ChatService.git
+[submodule "Nextera-User-Service"]
+	path = Nextera-User-Service
+	url = https://github.com/Anumod-c/NextEra-UserService.git
+[submodule "Nextera-Admin-Service"]
+	path = Nextera-Admin-Service
+	url = https://github.com/Anumod-c/NextEra-AdminService.git
+[submodule "Nextera-Tutor-Service"]
+	path = Nextera-Tutor-Service
+	url = https://github.com/Anumod-c/NextEra-TutorService.git
